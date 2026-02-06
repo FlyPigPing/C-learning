@@ -21,9 +21,22 @@ Console.WriteLine("Hello, World!");
 //}
 
 //求1000之内所有完数，完数是所有因子之和，6=1+2+3；
-int sum = 0;
+
 for (int i = 1; i <= 1000; i++)
 {
-    sum += i;
-    Console.WriteLine("第"+i+"完数是："+sum);
+    string str = "1";
+    int sum = 1;
+    for (global::System.Int32 j = 2; j < i; j++)
+    {
+        if (i%j == 0)
+        {
+            str += "+" + j;
+            sum += j;
+        }
+    }
+    if(sum == i)
+    {
+        Console.WriteLine(sum + "是完数" + str);
+    }
+
 }

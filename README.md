@@ -7,7 +7,9 @@
 4. git push
   
 # github的分支合并
-1. 切换到 main 分支  
+在VS2022中，远程提交，无法合并；
+
+1. 终端中，切换到 main 分支  
    git checkout main
 
 2. 合并 master（允许无共同历史）  

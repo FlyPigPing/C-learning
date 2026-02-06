@@ -15,6 +15,7 @@ Console.WriteLine("Hello, World!");
 
 //输出1~1000以内所有素数
 int index = 0;
+Console.WriteLine("2");
 while (index<1000)
 {
     index++;

@@ -34,6 +34,7 @@ Console.WriteLine("Hello, World!");
 //}
 
 //一对兔子，第三个月开始生一对，接着每个月生一对，计算20个月后有多少兔子？
+//能用递归，后面实现
 int month = 1;
 int sum = 0;
 int temp = 0;
