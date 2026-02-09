@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_0_调试", "Day5_0_暂定\Day5_0_调试.csproj", "{1FB37222-786C-42F9-8938-55D4A628EB7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_1_错误处理", "Day5_1_错误处理\Day5_1_错误处理.csproj", "{73ACE1CD-5DD2-4379-A208-FCD115F745B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_2_面向对象编程（结构化编程）", "Day5_2_面向对象编程（结构化编程）\Day5_2_面向对象编程（结构化编程）.csproj", "{6554904C-DB2B-4B2E-BD40-DBBBC51EF017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_3_类的定义与声明", "Day5_3_类的定义与声明\Day5_3_类的定义与声明.csproj", "{ABA20AF1-B7C2-44AC-8D70-E6FB92A793B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_4_匿名类型", "Day5_4_匿名类型\Day5_4_匿名类型.csproj", "{79A64029-6F1D-476D-BA21-FCCCA96E9540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_5_值类型与引用类型", "Day5_5_值类型与引用类型\Day5_5_值类型与引用类型.csproj", "{3B4A6068-5FDA-45B2-8A63-08185E250E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB37222-786C-42F9-8938-55D4A628EB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB37222-786C-42F9-8938-55D4A628EB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB37222-786C-42F9-8938-55D4A628EB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB37222-786C-42F9-8938-55D4A628EB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73ACE1CD-5DD2-4379-A208-FCD115F745B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73ACE1CD-5DD2-4379-A208-FCD115F745B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73ACE1CD-5DD2-4379-A208-FCD115F745B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73ACE1CD-5DD2-4379-A208-FCD115F745B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6554904C-DB2B-4B2E-BD40-DBBBC51EF017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6554904C-DB2B-4B2E-BD40-DBBBC51EF017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6554904C-DB2B-4B2E-BD40-DBBBC51EF017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6554904C-DB2B-4B2E-BD40-DBBBC51EF017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA20AF1-B7C2-44AC-8D70-E6FB92A793B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA20AF1-B7C2-44AC-8D70-E6FB92A793B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA20AF1-B7C2-44AC-8D70-E6FB92A793B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA20AF1-B7C2-44AC-8D70-E6FB92A793B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A64029-6F1D-476D-BA21-FCCCA96E9540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A64029-6F1D-476D-BA21-FCCCA96E9540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A64029-6F1D-476D-BA21-FCCCA96E9540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A64029-6F1D-476D-BA21-FCCCA96E9540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4A6068-5FDA-45B2-8A63-08185E250E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4A6068-5FDA-45B2-8A63-08185E250E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4A6068-5FDA-45B2-8A63-08185E250E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4A6068-5FDA-45B2-8A63-08185E250E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82EDDEBA-4B2F-444F-852B-7350341D49D9}
+	EndGlobalSection
+EndGlobal
