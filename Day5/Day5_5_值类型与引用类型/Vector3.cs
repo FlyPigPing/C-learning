@@ -10,7 +10,7 @@ namespace Day5_5_值类型与引用类型
     {
 
        public float x, y, z;
-
+ 
 
     }
 }
