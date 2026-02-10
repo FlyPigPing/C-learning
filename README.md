@@ -1,5 +1,10 @@
 # C-learning
 小白的C#学习之路
+
+Day1--Day4：初阶（不含.md文件）
+
+Day5--Day？：中阶（含.md文件，自己记录的笔记）
+
 # github上传正常流程
 1. 写代码
 2. git add .
