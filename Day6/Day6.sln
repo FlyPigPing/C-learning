@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6_0_继承", "Day6_0_继承\Day6_0_继承.csproj", "{03692920-2D97-4186-83FC-53E6DD1B4D30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6_1_密封类和密封方法", "Day6_1_密封类和密封方法\Day6_1_密封类和密封方法.csproj", "{287EE449-51AD-4DB6-A749-A0CC645E8F73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6_2_派生类的构造函数", "Day6_2_派生类的构造函数\Day6_2_派生类的构造函数.csproj", "{0CA39879-CAF8-4761-A853-BADAE2AC9291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03692920-2D97-4186-83FC-53E6DD1B4D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03692920-2D97-4186-83FC-53E6DD1B4D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03692920-2D97-4186-83FC-53E6DD1B4D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03692920-2D97-4186-83FC-53E6DD1B4D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{287EE449-51AD-4DB6-A749-A0CC645E8F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287EE449-51AD-4DB6-A749-A0CC645E8F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287EE449-51AD-4DB6-A749-A0CC645E8F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287EE449-51AD-4DB6-A749-A0CC645E8F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA39879-CAF8-4761-A853-BADAE2AC9291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA39879-CAF8-4761-A853-BADAE2AC9291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA39879-CAF8-4761-A853-BADAE2AC9291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA39879-CAF8-4761-A853-BADAE2AC9291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {620F17C8-C853-4126-86C0-0EB726A7199D}
+	EndGlobalSection
+EndGlobal
