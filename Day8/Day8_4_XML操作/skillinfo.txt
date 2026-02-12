@@ -1,0 +1,14 @@
+﻿<skills>
+
+	<skill>
+		<id>2</id>
+		<name lang =" cn">火焰喷射</name>
+		<damage>200</damage>
+	</skill>
+
+	<skill>
+		<id>3</id>
+		<name lang =" en">downbro</name>
+		<damage>300</damage>
+	</skill>
+</skills>
